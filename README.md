@@ -9,4 +9,4 @@ https://iridl.ldeo.columbia.edu/SOURCES/.ECMWF/.S2S/.ECMF/.reforecast/.perturbed
 
 
 ## Analysis of PyWR
-Download the relevant datasets. Python script to compute weather types/regimes using K-means. Model weather types are projected into the observed ones in the EOF space, which is plotet.
+Download the relevant datasets. Python script to compute weather types/regimes using K-means. Model weather types are projected into the observed ones in the EOF space, which is plotted.
