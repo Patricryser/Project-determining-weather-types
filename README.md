@@ -1,5 +1,6 @@
 # Scientific Question / Hypothesis
-What are the daily atmospheric circulation regimes for North America? Do they match the Weather Types found by N. Vigaud and A.W. Robertson, 2018.
+What are the daily atmospheric circulation regimes for North America? Do they match the Weather Types found by N. Vigaud and A.W. Robertson, 2018?
+
 We use in our case geopotential height anomalies as climate predictor. 
 
 # Links to the Scientific Datasets
