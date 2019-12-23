@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Patricryser/Project/master)
+[![myBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Patricryser/Project/master)
 
 # Scientific Question / Hypothesis
 What are the daily atmospheric circulation regimes for North America? Do they match the Weather Types found by N. Vigaud and A.W. Robertson, 2018? They should match, if we choose months between October and March as stated in the paper. 
