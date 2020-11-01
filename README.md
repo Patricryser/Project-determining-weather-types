@@ -3,7 +3,7 @@
 # Scientific Question / Hypothesis
 What are the daily atmospheric circulation regimes for North America? Do they match the Weather Types found by N. Vigaud and A.W. Robertson, 2018? They should match, if we choose months between October and March as stated in the paper. 
 
-We use in our case geopotential height anomalies as climate predictor. 
+We use in our case geopotential height anomalies as our climate predictor. 
 
 # Links to the Scientific Datasets
 To see the original source of the data, see the following URLs below for model and reanalysis data: 
